@@ -1,0 +1,44 @@
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.img-align1 {
+    display: inline-block;
+    align-items: center;
+    justify-content: center;
+}
+
+.img-align {
+    display: inline-block;
+    margin: 8px;
+}
+html {
+    border-width: 10px;
+    border-style: double;
+    border-color:black;
+}
+body {
+    background-color:darkgrey;
+    padding: 0;
+}
+
+h1, h2 {
+    text-decoration: underline;
+    text-align: center;
+    font-family: fantasy;
+    padding: 10px;
+}
+
+p {
+    margin: 10px;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 18px;
+}
+
+h3, h4 {
+    font-family: cursive;
+    margin: 20px;
+    color:brown
+}
